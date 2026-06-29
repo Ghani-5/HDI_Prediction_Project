@@ -45,6 +45,31 @@ Target:
   - High
   - Very High
 
+## Live Website
+
+https://hdi-prediction-project.onrender.com/
+
+## Demo Video
+
+https://drive.google.com/file/d/1XslzhMbz3xsZY69jkuh4jpzO8M3W1x6s/view?usp=sharing
+
+## GitHub Repository
+
+https://github.com/Ghani-5/HDI_Prediction_Project
+
+📷 Sample Output
+Input
+Feature	                    :Value
+--------------------------------------
+Life Expectancy	            :82
+Expected Years of Schooling	:18
+Mean Years of Schooling	    :13
+GNI Per Capita	            :60000
+
+Prediction
+Predicted HDI Group:
+Very High
+
 ---
 
 ## 🤖 Machine Learning Model
@@ -103,7 +128,7 @@ python app.py
 4. Open your browser
 
 ```
-http://127.0.0.1:5000
+https://hdi-prediction-project.onrender.com/
 ```
 
 5. Enter the input values and click **Predict**.
