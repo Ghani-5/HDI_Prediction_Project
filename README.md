@@ -126,8 +126,6 @@ HDI_PREDICTION_PROJECT/
 │
 ├── app.py
 ├── train_model.py
-├── model.pkl
-├── encoder.pkl
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
