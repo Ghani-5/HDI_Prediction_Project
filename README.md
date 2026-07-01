@@ -222,6 +222,7 @@ The web application predicts one of the following Human Development Groups:
 # 👨‍💻 Team Lead
 
 **SHAIK GHAN SAIDA**
+
 **Role:** Team Lead, Machine Learning Developer & Flask Application Developer
 
 ---
