@@ -219,8 +219,18 @@ The web application predicts one of the following Human Development Groups:
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Team Lead
 
 **SHAIK GHAN SAIDA**
+**Role:** Team Lead, Machine Learning Developer & Flask Application Developer
 
-Machine Learning Internship Project
+---
+
+# 👥 Team Members
+
+| Name                          | Role                                                     |
+| ----------------------------- | -------------------------------------------------------- |
+| **VIDYALATHA GORANTLA**       | Machine Learning Developer & Flask Application Developer |
+| **REVANTH GAMINI**            | Machine Learning Developer & Flask Application Developer |
+| **MALLAMPATI BHARADWAJ**      | Machine Learning Developer & Flask Application Developer |
+| **SHAIK BOPPUDI ABDUL RAHIM** | Machine Learning Developer & Flask Application Developer |
