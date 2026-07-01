@@ -35,7 +35,7 @@ The dataset contains Human Development data for different countries.
 * Life Expectancy at Birth (2021)
 * Expected Years of Schooling (2021)
 * Mean Years of Schooling (2021)
-* Gross National Income Per Capita (2021)
+* Gross National Income (GNI) Per Capita (2021)
 
 ### Target
 
@@ -50,11 +50,11 @@ Human Development Groups:
 
 # 🤖 Machine Learning Model
 
-**Algorithm Used**
+### Algorithm Used
 
 * Random Forest Classifier
 
-**Model Accuracy**
+### Model Accuracy
 
 **94.87%**
 
@@ -62,17 +62,25 @@ Human Development Groups:
 
 # 🌐 Live Demo
 
-### Live Website
+### 🌍 Live Website
 
 https://hdi-prediction-project.onrender.com/
 
-### Demo Video
+### 🎥 Demo Video
 
 https://drive.google.com/file/d/1XslzhMbz3xsZY69jkuh4jpzO8M3W1x6s/view?usp=sharing
 
-### GitHub Repository
+### 💻 GitHub Repository
 
 https://github.com/Ghani-5/HDI_Prediction_Project
+
+---
+
+# 📄 Project Documentation
+
+The complete project documentation is available in the repository.
+
+* 📘 documentation/Project_Documentation.pdf
 
 ---
 
@@ -80,7 +88,7 @@ https://github.com/Ghani-5/HDI_Prediction_Project
 
 ## Entity-Relationship Diagram
 
-![Entity-Relationship Diagram](screenshots/entity_relationship_diagram.png)
+![Entity Relationship Diagram](screenshots/entity_relationship_diagram.png)
 
 ---
 
@@ -122,9 +130,13 @@ HDI_PREDICTION_PROJECT/
 ├── encoder.pkl
 ├── requirements.txt
 ├── README.md
+├── .gitignore
 │
 ├── dataset/
 │   └── hdi.csv
+│
+├── documentation/
+│   └── Project_Documentation.pdf
 │
 ├── templates/
 │   ├── index.html
@@ -134,47 +146,52 @@ HDI_PREDICTION_PROJECT/
 │   └── style.css
 │
 ├── screenshots/
+│   ├── entity_relationship_diagram.png
 │   ├── home_page.png
 │   └── prediction_result.png
 │
-└── .gitignore
+└── model/
+    ├── model.pkl
+    └── encoder.pkl
 ```
 
 ---
 
 # ▶️ How to Run the Project
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Ghani-5/HDI_Prediction_Project.git
 ```
 
-### 2. Navigate to the project directory
+### 2. Navigate to the Project Directory
 
 ```bash
 cd HDI_Prediction_Project
 ```
 
-### 3. Install the required libraries
+### 3. Install the Required Libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run the Flask application
+### 4. Run the Flask Application
 
 ```bash
 python app.py
 ```
 
-### 5. Open your browser
+### 5. Open Your Browser
 
-```
+Visit:
+
+```text
 http://127.0.0.1:5000
 ```
 
-or visit the deployed application:
+or use the deployed application:
 
 https://hdi-prediction-project.onrender.com/
 
@@ -193,11 +210,12 @@ The web application predicts one of the following Human Development Groups:
 
 # 📌 Future Improvements
 
-* Improve the user interface
-* Add data visualizations and charts
-* Support HDI prediction for multiple years
-* Compare predictions across countries
-* Deploy using Docker and cloud services
+* Improve the user interface.
+* Add graphical analysis and interactive charts.
+* Support HDI prediction for multiple years.
+* Compare HDI predictions across different countries.
+* Integrate real-time datasets from trusted sources.
+* Deploy using Docker and cloud platforms for better scalability.
 
 ---
 
