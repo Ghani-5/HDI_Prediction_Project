@@ -88,19 +88,19 @@ The complete project documentation is available in the repository.
 
 ## Entity-Relationship Diagram
 
-![Entity Relationship Diagram](screenshots/entity_relationship_diagram.png)
+![Entity Relationship Diagram](screenshots/Entity_Relationship_Diagram.png)
 
 ---
 
 ## Home Page
 
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/Home_Page.png)
 
 ---
 
 ## Prediction Result
 
-![Prediction Result](screenshots/prediction_result.png)
+![Prediction Result](screenshots/Prediction_Result.png)
 
 ---
 
